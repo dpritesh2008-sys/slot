@@ -137,7 +137,7 @@ ctro
 </body>
 
 OUTPUT
-<img width="1863" height="1000" alt="image" src="https://github.com/user-attachments/assets/b058fded-02a4-4c9c-bcf5-bc13e8958d06" />
+
 
 RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
