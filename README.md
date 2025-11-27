@@ -59,7 +59,7 @@ PROGRAM
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - HARI PRASATH E (25007799)</b></caption>
+<caption><b>SLOT TIME TABLE - Ritesh DP (25015366)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
