@@ -1,7 +1,7 @@
 # Ex03 Time Table
-##Name:Ritesh DP
-## Date:27/11/2025
-##Registration number:25015366
+Name:Ritesh DP
+Date:27/11/2025
+Registration number:25015366
 
 ## AIM
 To write a html webpage page to display your slot timetable.
