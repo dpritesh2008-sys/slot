@@ -1,5 +1,7 @@
 # Ex03 Time Table
-## Date:
+##Name:Ritesh DP
+## Date:27/11/2025
+##Registration number:25015366
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -24,9 +26,6 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-Name: HARI PRASATH E
-Ref No: 25007799
-Date:21-09-2025
 AIM
 To write a html webpage page to display your slot timetable.
 
